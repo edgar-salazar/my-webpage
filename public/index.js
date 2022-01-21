@@ -22,8 +22,8 @@ var students = [
     Career: "IDYGS"
   },
   {
-    lname: "Reyes",
-    name: "Celso",
+    lname: "Jose Enrique",
+    name: "Padron Gomez",
     age: 21,
     birthday: {
       year: 2000,
